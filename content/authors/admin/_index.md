@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ken Hiura 日浦 健
+title: 日浦 健 Ken Hiura
 
 # Full name (for SEO)
 first_name: Ken
@@ -18,7 +18,7 @@ role: Posdoc
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The University of Tokyo
+  - name: 東京大学 The University of Tokyo
     url: https://www.u-tokyo.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,43 +26,43 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Nonequilibrium Statistical Mechanics
-  - Thermodynamics and Randomness
+  - 非平衡統計力学 Nonequilibrium Statistical Mechanics
+  - 熱力学とランダムネス Thermodynamics and Randomness
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 博士(理学) PhD in Physics
+      institution: 京都大学 Kyoto University
+      year: 2022
+    - course: 修士(理学) Master of Physics Degree
+      institution: 京都大学 Kyoto University
+      year: 2019
+    - course: 学士(理学) Bachelor of Science Degree
+      institution: 京都大学 Kyoto University
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
+#  - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+#  - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/necrophilism
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=gb2EVwMAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/kenhiura
+#  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
@@ -79,5 +79,4 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+
