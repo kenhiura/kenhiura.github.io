@@ -30,17 +30,17 @@ interests:
   - 熱力学とランダムネス Thermodynamics and Randomness
 
 # Education to show in About widget
-education:
-  courses:
-    - course: 博士(理学) PhD in Physics
-      institution: 京都大学 Kyoto University
-      year: 2022
-    - course: 修士(理学) Master of Physics Degree
-      institution: 京都大学 Kyoto University
-      year: 2019
-    - course: 学士(理学) Bachelor of Science Degree
-      institution: 京都大学 Kyoto University
-      year: 2017
+#education:
+#  courses:
+#    - course: 博士(理学) PhD in Physics
+#      institution: 京都大学 Kyoto University
+#      year: 2022
+#    - course: 修士(理学) Master of Physics Degree
+#      institution: 京都大学 Kyoto University
+#      year: 2019
+#    - course: 学士(理学) Bachelor of Science Degree
+#      institution: 京都大学 Kyoto University
+#      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
